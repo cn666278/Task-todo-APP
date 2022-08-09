@@ -7,7 +7,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-You can download the demo prototype (updated May 2022) by the file *app.apk*
+You can download the demo prototype (updated May 2022) by the file **app.apk**
 
 A few resources to get you started if this is your first Flutter project:
 
