@@ -1,8 +1,8 @@
 # youtube_task_app
 
 A new Flutter project.
-# Thanks to NIEWENYU, with his help I realize this github page
-# You can search him on github
+## Thanks to NIEWENYU, with his help I realize this github page
+### You can search him on github
 ## Getting Started
 
 This project is a starting point for a Flutter application.
