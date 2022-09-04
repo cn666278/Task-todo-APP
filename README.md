@@ -18,11 +18,10 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="https://github.com/cn666278/Task-todo-APP/blob/main/Screenshot1.png" height="10%" width="20%">
-<img src="https://github.com/cn666278/Task-todo-APP/blob/main/Screenshot2.png" height="10%" width="20%">
-<img src="https://github.com/cn666278/Task-todo-APP/blob/main/Screenshot3.png" height="10%" width="20%">
-<img src="https://github.com/cn666278/Task-todo-APP/blob/main/Screenshot4.png" height="10%" width="20%">
-<img src="https://github.com/cn666278/Task-todo-APP/blob/main/Screenshot5.png" height="10%" width="20%">
-<img src="https://github.com/cn666278/Task-todo-APP/blob/main/Screenshot6.png" height="10%" width="20%">
-<img src="https://github.com/cn666278/Task-todo-APP/blob/main/Screenshot7.png" height="10%" width="20%">
+<img src="https://github.com/cn666278/Task-todo-APP/blob/main/Screenshot1.png" height="50%" width="80%">
+<img src="https://github.com/cn666278/Task-todo-APP/blob/main/Screenshot2.png" height="50%" width="80%">
+<img src="https://github.com/cn666278/Task-todo-APP/blob/main/Screenshot3.png" height="50%" width="80%">
+<img src="https://github.com/cn666278/Task-todo-APP/blob/main/Screenshot4.png" height="50%" width="80%">
+<img src="https://github.com/cn666278/Task-todo-APP/blob/main/Screenshot5.png" height="50%" width="80%">
+
 
